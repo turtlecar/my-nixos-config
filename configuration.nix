@@ -193,6 +193,7 @@
     zathura
     playerctl
     kdePackages.qtstyleplugin-kvantum
+    davinci-resolve
   ];
 
   services.flatpak.enable = true;
