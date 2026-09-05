@@ -190,6 +190,7 @@
     pkgs-unstable.pi-coding-agent
     lilypond
     fluidsynth
+    soundfont-fluid
     ffmpeg
     mpv
     zathura
