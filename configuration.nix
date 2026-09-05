@@ -119,6 +119,8 @@
     enable32Bit = true;
   };
 
+  hardware.amdgpu.opencl.enable = true;
+
   programs.steam = {
     enable = true;
     dedicatedServer.openFirewall = true;
