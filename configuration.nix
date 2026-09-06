@@ -203,6 +203,7 @@
     kdePackages.qtstyleplugin-kvantum
     davinci-resolve
     alsa-utils
+    piper-tts
   ];
 
   services.flatpak.enable = true;
