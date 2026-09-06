@@ -205,6 +205,7 @@
     alsa-utils
     piper-tts
     pipes
+    whisper-cpp
   ];
 
   services.flatpak.enable = true;
