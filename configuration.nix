@@ -171,6 +171,7 @@
     ripgrep
     fd
     gcc
+    clang
     gnumake
     tree-sitter
     nodejs
