@@ -204,6 +204,7 @@
     davinci-resolve
     alsa-utils
     piper-tts
+    pipes
   ];
 
   services.flatpak.enable = true;
