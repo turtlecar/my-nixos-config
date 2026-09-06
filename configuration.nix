@@ -202,6 +202,7 @@
     playerctl
     kdePackages.qtstyleplugin-kvantum
     davinci-resolve
+    alsa-utils
   ];
 
   services.flatpak.enable = true;
