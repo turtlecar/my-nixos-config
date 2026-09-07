@@ -185,6 +185,13 @@
     lua
     python3
     pyright
+    clang-tools
+    lua-language-server
+    zig
+    zls
+    rustc
+    rust-analyzer
+    nixd
     cmatrix
     cbonsai
     cowsay
