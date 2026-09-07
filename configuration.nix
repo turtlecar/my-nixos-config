@@ -213,6 +213,7 @@
     piper-tts
     pipes
     whisper-cpp
+    pandoc
   ];
 
   services.flatpak.enable = true;
