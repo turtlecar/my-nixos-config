@@ -214,6 +214,7 @@
     pipes
     whisper-cpp
     pandoc
+    swaynotificationcenter
   ];
 
   services.flatpak.enable = true;
