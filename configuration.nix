@@ -215,6 +215,7 @@
     whisper-cpp
     pandoc
     swaynotificationcenter
+    uv
   ];
 
   services.flatpak.enable = true;
