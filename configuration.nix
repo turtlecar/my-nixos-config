@@ -52,6 +52,14 @@
 
   time.timeZone = "Asia/Jakarta";
 
+  programs.nix-ld.enable = true;
+  programs.nix-ld.libraries = with pkgs; [
+    libX11
+    libXi
+    libGL
+    alsa-lib
+  ];
+
   services.displayManager.ly = {
     enable = true;
     settings = {
